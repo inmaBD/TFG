@@ -1,3 +1,0 @@
-yolo train data=dataset.yaml detect model=yolov8m.pt project=rot-enl-yolov8m-auto-class_F epochs=600 patience=60 imgsz=512 batch=-1    
-yolo train data=dataset.yaml detect model=yolov8l.pt project=rot-enl-yolov8l-auto-class_F epochs=600 patience=60 imgsz=512 batch=-1 
-yolo train data=dataset.yaml detect model=yolov8x.pt project=rot-enl-yolov8x-auto-class_F epochs=600 patience=60 imgsz=512 batch=-1 
